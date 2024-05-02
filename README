@@ -1,0 +1,8 @@
+Documentação:
+
+Para rodar como está usando uma biblioteca grafica use o CMD
+
+- dfs.py : Script onde está rodando o algoritmo de busca #depth-first search#
+- criarLabirinto.py : Script para criar 2 labirintos, um manual e outro random para testes (O random nem sempre terá uma saída válida!)
+- interface.py : criação da interface grafica usando os labirintos e o algoritmo
+- Na interface existe um bortão para recriar o labirinto random caso o mesmo não tenha saídas!
