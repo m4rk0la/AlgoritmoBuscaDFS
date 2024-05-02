@@ -5,7 +5,9 @@ Utilizando uma pilha (ou recursão), ele visita os vértices de um grafo ou esta
 priorizando a exploração em profundidade antes de retroceder para explorar outros ramos. É útil para encontrar soluções em labirintos, 
 árvores de busca e na implementação de outras técnicas como backtracking e análise de conectividade em grafos. 🌐
 
-Na interface gerada, será possível comparar um labirinto criado manual e um labirinto gerando random, *Nem sempre o labirinto Random terá uma saída*
+Na interface gerada, será possível comparar um labirinto criado manual e um labirinto gerando random. 
+
+*Nem sempre o labirinto Random terá uma saída*
 
 ## Documentação:
 - use `pip install tkinter` caso não o tenha!
