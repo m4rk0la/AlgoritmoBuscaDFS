@@ -1,14 +1,13 @@
 ##Labirinto resolvido com algoritmo depth-first search
-
-O que é: 
+ 
 O algoritmo de busca em profundidade (DFS) é uma técnica de busca não informada que explora o máximo possível ao longo de um ramo antes de retroceder. 
 Utilizando uma pilha (ou recursão), ele visita os vértices de um grafo ou estados de um espaço de estados de forma não sequencial, 
 priorizando a exploração em profundidade antes de retroceder para explorar outros ramos. É útil para encontrar soluções em labirintos, 
 árvores de busca e na implementação de outras técnicas como backtracking e análise de conectividade em grafos.
 
 Documentação:
-
-Para rodar como está usando uma biblioteca grafica (tkinter) use o CMD
+- use pip install tkinter caso não o tenha!
+*Para rodar como está usando uma biblioteca grafica (tkinter) use o CMD*
 
 - dfs.py : Script onde está rodando o algoritmo de busca #depth-first search#
 - criarLabirinto.py : Script para criar 2 labirintos, um manual e outro random para testes (O random nem sempre terá uma saída válida!)
